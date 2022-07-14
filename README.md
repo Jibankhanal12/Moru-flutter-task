@@ -1,7 +1,7 @@
 # Newsapp
 In this task, i created a simple news app which featch the news form the API server.
 
-# Some output of the task
+# Output of the project
 # Splash Screen
 ![splash](https://github.com/Jibankhanal12/Moru-flutter-task/blob/main/output/splash.PNG)
 # Home Page
