@@ -10,3 +10,7 @@ To run this project you must have a flutter installed on your machine. For more 
 
 # Splash Screen
 ![splash](https://github.com/Jibankhanal12/Moru-flutter-task/blob/main/output/splash.PNG)
+# Home Page
+![home](https://github.com/Jibankhanal12/Moru-flutter-task/blob/main/output/home.PNG)
+# Detail Page
+![detail](https://github.com/Jibankhanal12/Moru-flutter-task/blob/main/output/detail.PNG)
