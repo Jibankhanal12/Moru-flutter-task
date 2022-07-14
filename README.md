@@ -9,6 +9,4 @@ To run this project you must have a flutter installed on your machine. For more 
 # Some output of the task
 
 # Splash Screen
-(https://github.com/Jibankhanal12/Moru-flutter-task/blob/main/output/splash.PNG)
-output/home.PNG
-output/detail.PNG
+![splash](https://github.com/Jibankhanal12/Moru-flutter-task/blob/main/output/splash.PNG)
